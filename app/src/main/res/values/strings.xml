@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">World Weather</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="find_weather">Find out the weather</string>
+    <string name="enter_longitude_latitude">Enter Latitude and Longitude</string>
+    <string name="nothing_found">Nothing found!</string>
+</resources>
